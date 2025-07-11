@@ -1,5 +1,6 @@
 # Hurricane IDALIA Path Prediction
 *Part of courswork of DMS672: Data Mining & Knowledge Discovery*
+
 Hurricane IDALIA affected US East coast back in August 2023. This project captures:
 1. Demographic characterstics of affected region
 2. Modelling Hurricane GIS data using RF, RNN & LSTM
@@ -8,6 +9,7 @@ Hurricane IDALIA affected US East coast back in August 2023. This project captur
 
 Data Sources: National Hurricane Centre, US Dept of Census 
 
-Refer report file for technical summary
-Refer eda file for demographic analysis
-Refer codebase for coding & output (including graphical output)
+Reference:
+1. Refer report file for technical summary
+2. Refer eda file for demographic analysis
+3. Refer codebase for coding & output (including graphical output)
